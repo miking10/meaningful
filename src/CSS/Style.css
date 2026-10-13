@@ -63,6 +63,10 @@ header nav .Login-right .hamburger-menu {
 header nav .Login-right .hamburger-menu svg {
   fill: white;
 }
+a {
+  text-decoration: none;
+  color: black;
+}
 
 /* Hero section */
 #hero {

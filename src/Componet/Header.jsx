@@ -1,9 +1,8 @@
 const Header = () => {
   return (
     <>
-      <Header>
+      <header>
         <div class="Logo-left">
-          <img src="./images/logo.png" alt="BREEZ-logo" />
           <p>BREEZ</p>
         </div>
         <nav>
@@ -26,7 +25,7 @@ const Header = () => {
             </li>
           </ul>
         </nav>
-      </Header>
+      </header>
     </>
   );
 };
